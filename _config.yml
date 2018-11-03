@@ -7,13 +7,14 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Plugins
-plugins: 		  [jekyll-paginate, jekyll-gist]
+plugins: 		      [jekyll-paginate, jekyll-gist]
 
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Yihang Yin
+tagline:          'Somedaywilldo'
+description:	    'Michael<br>Somedaywilldo<br><br>School of Computer Science and Engineering<br>Beihang University<br><br>Exchange Student at Applied Science and Engineering<br>University of Toronto'
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -24,7 +25,6 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+version:          1.0.0
+github:           https://github.com/Somedaywilldo/
+# email:            yihangmichael [dot] yin [at] gmail [dot] com
