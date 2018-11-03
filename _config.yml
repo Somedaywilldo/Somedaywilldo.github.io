@@ -16,7 +16,7 @@ tagline:          'Somedaywilldo'
 description:	    'Michael<br>Somedaywilldo<br><br>School of Computer Science and Engineering<br>Beihang University<br><br>Exchange Student at Applied Science and Engineering<br>University of Toronto'
 # description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://somedaywilldo.github.io/
-baseurl:          https://somedaywilldo.github.io/
+baseurl:          /
 
 author:
   name:           'Mark Otto'
