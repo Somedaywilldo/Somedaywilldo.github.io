@@ -3,24 +3,17 @@ layout: page
 title: About Me
 ---
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+ 
+I'm Yihang Yin (尹一航), you can also call me Michael.
 
-There are currently two themes built on Poole:
+I'm a junior Computer Science student of **Beihang University**, used to be an international exchange student at **University of Toronto**.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+My research interest includes Artificial Intelligence, Reinforcement Learning, Machine Learning and Computer Vision. Especially Machine Learning for creativity.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Now I'm working with **Vector Institute** (University of Toronto) under the instruction of **Prof. Sanja Fidler** and **Tsinghua University** under the instruciton of **Prof. Xiaolin Hu**. Also have some research experience at **Microsoft Research Asia** (MSRA) and **Chinese Academy of Science** (CAS).
 
-## Setup
+You can click on the sidebar to download my CV to have more detailed information.
 
-Some fun facts about the setup of this project include:
+Contact me at: someday@buaa.edu.cn
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
