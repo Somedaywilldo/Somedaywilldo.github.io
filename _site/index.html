@@ -66,6 +66,10 @@
           
         
       
+        
+          
+        
+      
 
       <a class="sidebar-nav-item" href="public/Yihang_Yin_CV_20190121.pdf">Download CV</a>
       <a class="sidebar-nav-item" href="https://github.com/Somedaywilldo">GitHub Home</a>
@@ -79,6 +83,21 @@
 
     <div class="content container">
       <div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2019/02/18/Bullet3-Simulator-Contribution/">
+        Bullet3/pybullet Simulator Contribution
+      </a>
+    </h1>
+
+    <span class="post-date">18 Feb 2019</span>
+
+    <p><strong>Bullet3/pybullet</strong> is very popular physics simulator, widely used for reinforcement learning, graphics and robotics.</p>
+
+<p>Now the deep_mimic environment has the <strong>support for a popular motion capture dataset, Human3.6M</strong>. I’ve contributed an specialized <strong>inverse kinematics</strong> module to pybullet_env/deep_mimic, so the 3D position data(not necessary needs to be in Human3.6M) can be transformed to quaternions(control parameters), which can be used by the humanoid agent in bullet simulator. See [<a href="https://github.com/bulletphysics/bullet3/pull/2105">Bullet3</a>]</p>
+
+  </div>
   
   <div class="post">
     <h1 class="post-title">
@@ -156,27 +175,11 @@
 
   </div>
   
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2018/04/07/CityVision-Project/">
-        CityVision Project
-      </a>
-    </h1>
-
-    <span class="post-date">07 Apr 2018</span>
-
-    <p><strong>CityVision</strong> is a smart-city research project, using computer vision to analyze massive street-view pictures. Funded by Chinese Academy of Science and Beihang University. （中科院科教协同创新计划）</p>
-
-<p><strong>CityVision</strong> [<a href="https://github.com/Somedaywilldo/CityVision">Project page</a>]</p>
-
-
-  </div>
-  
 </div>
 
 <div class="pagination">
   
-    <span class="pagination-item older">Older</span>
+    <a class="pagination-item older" href="/page2">Older</a>
   
   
     <span class="pagination-item newer">Newer</span>
