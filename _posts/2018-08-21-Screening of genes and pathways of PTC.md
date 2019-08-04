@@ -3,7 +3,7 @@ layout: post
 title: Screening of genes and pathways of PTC
 ---
 
-A bioinfomatics and data-mining paper, SCI Impact Factor: 1.664.
+A bioinfomatics and data-mining paper, SCI Impact Factor: 1.871.
 
 **Genetic expression profile‑based screening of genes and pathways associated with papillary thyroid carcinoma**
 
